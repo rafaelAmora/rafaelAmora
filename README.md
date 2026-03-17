@@ -114,5 +114,4 @@
 
 ---
 
-<p align="center">
-  <i>⭐ Se curtir algum projeto meu, deixa uma est
+<p align="center"> <i>⭐ Se curtir algum projeto meu, deixa uma estrela! Isso me motiva muito 😄</i> </p>
